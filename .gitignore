@@ -1,0 +1,13 @@
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Pasta de exportações
+exports/*.csv
+
+# Logs
+*.log
+
+# Arquivos do editor
+.vscode/
+.idea/
